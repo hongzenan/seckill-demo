@@ -3,7 +3,7 @@ package org.seckill.dto;
 /**
  * 暴露秒杀接口DTO
  * 
- * @author 李奕锋
+ * @author 洪泽楠
  */
 public class Exposer {
 

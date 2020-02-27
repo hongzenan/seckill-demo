@@ -10,7 +10,7 @@ import org.seckill.entity.Seckill;
 /**
  * 秒杀库存DAO接口
  * 
- * @author 李奕锋
+ * @author 洪泽楠
  */
 public interface SeckillDao {
 
